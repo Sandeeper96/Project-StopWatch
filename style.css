@@ -9,7 +9,7 @@
     align-items: center;
     justify-content: center;
 }
-.shraddha1{
+.timer{
     position: absolute;
     display: grid;
     grid-template-rows: 1fr 1fr;
@@ -27,4 +27,9 @@
   font-size: 18px;
   left: 243px;
   margin-top: 66px;
+  box-shadow: 5px 5px 5px black;
+}
+.second:hover{
+  background-color: rgb(203, 97, 212);
+  
 }
